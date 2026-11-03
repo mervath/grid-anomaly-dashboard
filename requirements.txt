@@ -1,0 +1,9 @@
+numpy
+matplotlib
+torch
+openai==0.28.1
+soundfile
+sounddevice
+faster-whisper
+scipy
+python-dotenv

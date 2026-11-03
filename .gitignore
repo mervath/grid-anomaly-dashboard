@@ -1,0 +1,23 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Secrets and local state
+.env
+.env.*
+!.env.example
+*.db
+current_anomaly.txt
+
+# Generated media and outputs
+outputs/
+Generated/
+raw_images/
+*.wav
+*.mp3
+*.mp4
+*.opus
